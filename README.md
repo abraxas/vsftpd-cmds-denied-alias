@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/vsftpd-cmds-denied-alias">vsftpd-cmds-denied-alias</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/vsftpd-cmds-denied-alias"><strong>https://abraxaslabs.tech/research/vsftpd-cmds-denied-alias</strong></a>
+</p>
+
 
 # vsftpd-cmds-denied-alias
 
